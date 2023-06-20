@@ -1,0 +1,11 @@
+function fun1()
+{
+    console.log ("Hello World")
+}
+
+function fun2(str)
+{
+    console.log ("Hello World"+str)
+}
+func1()
+fun2("test")
