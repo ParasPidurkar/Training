@@ -301,3 +301,60 @@ In this example, we have an object `person` with a `greet` method. We use the `b
 The `bind` method is commonly used to fix the `this` context in event handlers or when passing functions as callbacks to other functions, ensuring that the correct `this` value is maintained when the function is invoked. It is also used for creating partially applied functions where some arguments are pre-set, leaving the rest to be provided later.
 
 By using `bind`, you can effectively control the `this` context and create flexible and reusable functions in your JavaScript code.
+
+call and apply Methods in JavaScript
+In JavaScript, call and apply are two methods available on all function objects that allow you to invoke a function and explicitly set the value of this and pass arguments to the function.
+
+call Method
+The call method allows you to call a function with a specified this value and individual arguments. The syntax is as follows:
+
+javascript
+Copy code
+functionName.call(thisArg, arg1, arg2, ...);
+functionName: The function to be called.
+thisArg: The value to be used as the this value when the function is called.
+arg1, arg2, ...: Optional arguments that will be passed to the function when it is called.
+Example
+javascript
+Copy code
+const person = {
+  name: 'John',
+  greet: function (greeting) {
+    console.log(`${greeting}, ${this.name}!`);
+  },
+};
+
+const otherPerson = {
+  name: 'Alice',
+};
+
+person.greet.call(otherPerson, 'Hello'); // Output: Hello, Alice!
+In this example, the greet function is called with otherPerson as the this value, so the this.name inside the greet function refers to otherPerson.name, resulting in "Hello, Alice!" as the output.
+
+apply Method
+The apply method is similar to call, but it takes arguments as an array-like object instead of individual arguments. The syntax is as follows:
+
+javascript
+Copy code
+functionName.apply(thisArg, [arg1, arg2, ...]);
+functionName: The function to be called.
+thisArg: The value to be used as the this value when the function is called.
+[arg1, arg2, ...]: An array or an array-like object containing arguments to be passed to the function when it is called.
+Example
+javascript
+Copy code
+const person = {
+  name: 'John',
+  greet: function (greeting) {
+    console.log(`${greeting}, ${this.name}!`);
+  },
+};
+
+const otherPerson = {
+  name: 'Alice',
+};
+
+person.greet.apply(otherPerson, ['Hello']); // Output: Hello, Alice!
+In this example, the greet function is called with otherPerson as the this value, and the argument 'Hello' is passed as an array to the function.
+
+The call and apply methods allow you to explicitly control the value of this within a function and pass arguments as needed, providing flexibility and reusability in various scenarios.
