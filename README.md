@@ -1,15 +1,25 @@
-# Vanilla JS training  
-1 Asynchronous JavaScript: Promises, Callbacks, Async Await  (Notes in onenote notebook with same name) -> completed
-    https://github.com/ParasPidurkar/Training/tree/76c46d3590f08fc438e952fed3c024bc144337df/asynchronous-javascript-tutorial
+# Training Plan
 
-2 Modern JavaScript
+This repository contains a list of training topics and resources that I am currently working on. Each item in the list represents a specific area of study and includes relevant details and links.
 
-3 System Design from Geeks for Geeks 
+## 1. Asynchronous JavaScript
+   - Topics: Promises, Callbacks, Async Await
+   - Status: Completed
+   - Notes: [OneNote Notebook](https://github.com/ParasPidurkar/Training/tree/76c46d3590f08fc438e952fed3c024bc144337df/asynchronous-javascript-tutorial)
 
-4 JS DSA Colt steel 02/08/23
+## 2. Modern JavaScript
 
-5 Go Programming Language By Example - Agus Kurniawan
+## 3. System Design from Geeks for Geeks
 
-6 C Programming Language By Example - Agus Kurniawan  -> completed
-    https://github.com/ParasPidurkar/Super_C_programming-.git
+## 4. JavaScript Data Structures and Algorithms
+   - Instructor: Colt Steele
+   - Start Date: 02/08/23
+
+## 5. Go Programming Language By Example
+   - Author: Agus Kurniawan
+
+## 6. C Programming Language By Example
+   - Author: Agus Kurniawan
+   - Status: Completed
+   - Repository: [C Programming Example](https://github.com/ParasPidurkar/Super_C_programming-.git)
 
