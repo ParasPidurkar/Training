@@ -5,7 +5,8 @@ This repository contains a list of training topics and resources that I am curre
 ## 1. Asynchronous JavaScript
    - Topics: Promises, Callbacks, Async Await
    - Status: Completed
-   - Notes: [OneNote Notebook](https://github.com/ParasPidurkar/Training/tree/76c46d3590f08fc438e952fed3c024bc144337df/asynchronous-javascript-tutorial)
+   - Notes: OneNote Notebook
+   - Repository: [Asynchronous Javascript](https://github.com/ParasPidurkar/Training/tree/76c46d3590f08fc438e952fed3c024bc144337df/asynchronous-javascript-tutorial)
 
 ## 2. Modern JavaScript
 
