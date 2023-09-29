@@ -7,3 +7,8 @@
 
 4 JS DSA Colt steel 02/08/23
 
+5 Go Programming Language By Example - Agus Kurniawan
+
+6 C Programming Language By Example - Agus Kurniawan  -> completed
+    https://github.com/ParasPidurkar/Super_C_programming-.git
+
