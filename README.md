@@ -24,3 +24,9 @@ This repository contains a list of training topics and resources that I am curre
    - Status: Completed
    - Repository: [C Programming Example](https://github.com/ParasPidurkar/Super_C_programming-.git)
 
+## 7. Javascript Beginner to Advance
+   - Author: Laurence lars svekis
+   - Start Date: 12/10/2023
+   - Status: In Progress
+   - Repository: [Javascript](https://github.com/ParasPidurkar/Web_Development/tree/main/Javascript)
+
