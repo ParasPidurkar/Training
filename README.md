@@ -9,15 +9,19 @@ This repository contains a list of training topics and resources that I am curre
    - Repository: [Asynchronous Javascript](https://github.com/ParasPidurkar/Training/tree/76c46d3590f08fc438e952fed3c024bc144337df/asynchronous-javascript-tutorial)
 
 ## 2. Modern JavaScript
+   - Status: Paused
 
 ## 3. System Design from Geeks for Geeks
+   - Status: Paused
 
 ## 4. JavaScript Data Structures and Algorithms
    - Instructor: Colt Steele
+   - Status: Paused
    - Start Date: 02/08/23
 
 ## 5. Go Programming Language By Example
    - Author: Agus Kurniawan
+   - Status: Paused
 
 ## 6. C Programming Language By Example
    - Author: Agus Kurniawan
