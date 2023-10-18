@@ -34,3 +34,9 @@ This repository contains a list of training topics and resources that I am curre
    - Status: In Progress
    - Repository: [Javascript](https://github.com/ParasPidurkar/Web_Development/tree/main/Javascript)
 
+## 8. OTT Basics
+   - Author: OTTverse
+   - Start Date: 18/10/2023
+   - Status: In Progress
+   - Link: [OTT Basics](https://ottverse.com/)
+
