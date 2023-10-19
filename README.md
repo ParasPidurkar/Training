@@ -1,6 +1,5 @@
 # Training Plan
 
-This repository contains a list of training topics and resources that I am currently working on. Each item in the list represents a specific area of study and includes relevant details and links.
 
 ## 1. Asynchronous JavaScript
    - Topics: Promises, Callbacks, Async Await
