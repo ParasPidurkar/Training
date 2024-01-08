@@ -37,5 +37,5 @@
    - Author: OTTverse
    - Start Date: 18/10/2023
    - Status: In Progress
-   - Link: [OTT Basics](https://ottverse.com/)
+   - Link: [OTT Basics](https://ottverse.com)
 
