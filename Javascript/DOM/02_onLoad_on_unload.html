@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OnLoad and OnUnload Demo</title>
+    <script>
+        function showMessage() {
+            alert('Button clicked!');
+        }
+
+        function pageLoaded() {
+            alert('Page is fully loaded!');
+        }
+
+        function pageUnloaded() {
+            alert('Leaving the page!');
+        }
+    </script>
+</head>
+<body onload="pageLoaded()" onunload="pageUnloaded()">
+<h1>OnLoad and OnUnload Event Demo</h1>
+<button onclick="showMessage()">Click Me</button>
+</body>
+</html>
