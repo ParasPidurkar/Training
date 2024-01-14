@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Propagation Example</title>
+</head>
+<body>
+<div id="outerDiv" style="border: 2px solid red; padding: 20px;">
+    <p id="innerPara">Click me!</p>
+</div>
+
+<script>
+    const outerDiv = document.getElementById("outerDiv");
+    const innerPara = document.getElementById("innerPara");
+
+    outerDiv.addEventListener("click", function(event) {
+        alert("Outer Div Clicked!");
+        console.log("Event Target: " + event.target.tagName);
+    });
+
+    innerPara.addEventListener("click", function(event) {
+        alert("Inner Paragraph Clicked!");
+        console.log("Event Target: " + event.target.tagName);
+    });
+</script>
+</body>
+</html>

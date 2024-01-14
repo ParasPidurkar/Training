@@ -1,0 +1,29 @@
+.slider {
+    position: relative;
+    max-width: 600px; /* You can adjust this */
+}
+
+.slider img {
+    width: 100%;
+    height: auto;
+}
+
+.btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn:nth-child(2) {
+    left: 0;
+}
+
+.btn:nth-child(3) {
+    right: 0;
+}
