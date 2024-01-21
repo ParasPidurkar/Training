@@ -8,7 +8,7 @@
    - Repository: [Asynchronous Javascript](https://github.com/ParasPidurkar/Training/tree/76c46d3590f08fc438e952fed3c024bc144337df/asynchronous-javascript-tutorial)
 
 ## 2. Modern JavaScript
-   - Status: Paused
+   - Status: Paused 
 
 ## 3. System Design from Geeks for Geeks
    - Status: Paused
