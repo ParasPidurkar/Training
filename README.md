@@ -39,3 +39,10 @@
    - Status: In Progress
    - Link: [OTT Basics](https://ottverse.com)
 
+## 8. C and CPP DSA
+   - Instructor: Abdul Bari
+   - Start Date: 06/02/2024
+   - Status: In Progress
+   - Completed:
+   - Notes: DSA notebook onenote
+
